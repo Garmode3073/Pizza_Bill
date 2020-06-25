@@ -16,13 +16,13 @@ We used tkinter toolkit for GUI. We also used "Time" module of python. For the s
 
 This will be the first page where user will be asked for few details and order of food.
 
-![](F:\python\Pizza_Shop\ss_for_readme\1.png)
+![](\ss_for_readme\1.png)
 
 **2. THE BILL**
 
 Once the user clicks on Total Bill the calculated value is shown in the respective Display Box. When the user clicks on 'Order' button, a bill is generated. 
 
-![2](F:\python\Pizza_Shop\ss_for_readme\2.png)
+![2](\ss_for_readme\2.png)
 
 ## IMPLEMENTATION PLAN
 
@@ -36,7 +36,7 @@ ___
 
 1. Download XAMPP server for the local PC and start Apache and MySQL modules
 
-   ![3](F:\python\Pizza_Shop\ss_for_readme\3.png)
+   ![3](\ss_for_readme\3.png)
 
 2. Download the following dependencies using pip
 
