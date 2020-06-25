@@ -48,7 +48,7 @@ ___
         pip install time
      ```
    * ```
-     pip install pymysql
+        pip install pymysql
      ```
    
 3. Go to Project Folder and run home.py
